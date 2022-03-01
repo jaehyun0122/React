@@ -1,4 +1,6 @@
-# React by 생활코딩
+# React 
+
+by 생활코딩
 
 ## 1. React
 
