@@ -222,3 +222,10 @@ npm i @types/react-router-dom -D
 
 3)npm i @emotion/react @emotion/styled
 
+### 5) React Memo
+
+React는 상태가 바뀔때 마다 리렌더링을 해준다.
+
+특정 컴포넌트는 리렌더링을 하지 않기 원할 때 React.memo(component).
+
+만약 100개의 컴포넌트가 있을 때 변경 데이터가 있을 때 마다 리렌더링을 해주면 서비스가 느려지는 원인이 될 수 있다.
